@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkShopAPITestingAdvanced", "WorkShopAPITestingAdvanced.csproj", "{761D1401-C79B-446B-97E5-6611FC1E153D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{761D1401-C79B-446B-97E5-6611FC1E153D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{761D1401-C79B-446B-97E5-6611FC1E153D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{761D1401-C79B-446B-97E5-6611FC1E153D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{761D1401-C79B-446B-97E5-6611FC1E153D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90441630-BBC4-4773-A01B-574195A80724}
+	EndGlobalSection
+EndGlobal

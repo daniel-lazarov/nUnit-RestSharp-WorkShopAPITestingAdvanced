@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{761D1401-C79B-446B-97E5-6611FC1E153D}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProductManagementTests.cs">
+    <Files>
+      <File FileName="Usings.cs" Line="7" Column="8" />
+      <File FileName="GlobalConstants.cs" Line="39" Column="1" />
+      <File FileName="BlogManagementTests.cs" Line="26" Column="4" />
+      <File FileName="ColorManagementTests.cs" Line="28" Column="10" />
+      <File FileName="CouponManagementTests.cs" Line="188" Column="41" />
+      <File FileName="OrderManagementTests.cs" Line="1" Column="1" />
+      <File FileName="ProductManagementTests.cs" Line="68" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WorkShopAPITestingAdvanced" expanded="True">
+            <Node name="WorkShopAPITestingAdvanced" expanded="True">
+              <Node name="ProductManagementTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="WorkShopAPITestingAdvanced">
+            <Node name="WorkShopAPITestingAdvanced" expanded="True">
+              <Node name="WorkShopAPITestingAdvanced" expanded="True">
+                <Node name="BlogManagementTests" expanded="True" />
+                <Node name="ColorManagementTests" expanded="True" />
+                <Node name="CouponManagementTests+ColorManagementTests" expanded="True" />
+                <Node name="OrderManagementTests" expanded="True" />
+                <Node name="ProductManagementTests+OrderManagementTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WorkShopAPITestingAdvanced PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
